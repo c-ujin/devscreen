@@ -1,0 +1,11 @@
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\bin\Debug\netcoreapp2.0\Devscreen.deps.json
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\bin\Debug\netcoreapp2.0\Devscreen.runtimeconfig.json
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\bin\Debug\netcoreapp2.0\Devscreen.runtimeconfig.dev.json
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\bin\Debug\netcoreapp2.0\Devscreen.dll
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\bin\Debug\netcoreapp2.0\Devscreen.pdb
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.csprojResolveAssemblyReference.cache
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.csproj.CoreCompileInputs.cache
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.AssemblyInfoInputs.cache
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.AssemblyInfo.cs
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.dll
+C:\Users\Chibuikem\Documents\Visual Studio 2017\Projects\Devscreen\Devscreen\obj\Debug\netcoreapp2.0\Devscreen.pdb
